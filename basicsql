@@ -1,0 +1,6 @@
+$sql = "SELECT
+media.id,
+products.*
+FROM
+media ,
+products";
